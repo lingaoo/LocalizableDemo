@@ -1,0 +1,2 @@
+# LocalizableDemo
+Demo
